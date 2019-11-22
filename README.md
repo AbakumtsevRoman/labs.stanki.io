@@ -1,1 +1,1 @@
-# labs.stanki.io
+# labs.stankin.io
