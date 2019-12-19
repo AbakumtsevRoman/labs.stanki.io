@@ -106,7 +106,7 @@ body {
 }
 
 #intro {
-  background-image: url('../img/bg4v2.png');
+  background-color: #000000;
   color: #ffffff;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
@@ -196,7 +196,7 @@ body {
 }
 
 #lr2 {
-  background-color: #191918;
+  background-color: #000000;
   color: #e4e6e5;
   padding-top: 90px;
 }
