@@ -1,4 +1,4 @@
-﻿.font-regular {
+.font-regular {
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 300;
   font-size: 20px;
@@ -65,7 +65,7 @@ body {
   background: none;
 }
 .navbar .active a {
-  border-bottom: 2px solid #F1C40F;
+  border-bottom: 2px solid #FF8C00;
 }
 
 .navbar-scrolled {
@@ -174,7 +174,7 @@ body {
 }
 
 #lr1 {
-  background-color: #0b14bf;
+  background-color: #000080;
   color: #e4e6e5;
   padding-top: 90px;
 }
@@ -192,7 +192,7 @@ body {
   padding-bottom: 50px;
 }
 #lr1 a {
-  color: #F1C40F;
+  color: #FFA500;
 }
 
 #lr2 {
@@ -214,11 +214,11 @@ body {
   padding-bottom: 50px;
 }
 #lr2 a {
-  color: #F1C40F;
+  color: #FFA500;
 }
 
 #lr3 {
-  background-color: #0b14bf;
+  background-color: #000080;
   color: #e4e6e5;
   padding-top: 90px;
 }
@@ -236,7 +236,7 @@ body {
   padding-bottom: 50px;
 }
 #lr3 a {
-  color: #F1C40F;
+  color: #FFA500;
 }
 
 #slide-7 {
