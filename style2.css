@@ -49,14 +49,14 @@ body {
 }
 
 .navbar {
-  background-color: rgba(0, 191, 255, 1.0);
+  background-color: rgba(0, 255, 255, 1.0);
   border-bottom: 0 none;
   font-size: 12px;
   transition: .25s all linear;
 }
 
 .navbar .nav a {
-  color: #000;
+  color: #f0f;
   font-weight: 400;
   font-size: 16px;
 }
@@ -69,7 +69,7 @@ body {
 }
 /*цвет меню*/
 .navbar-scrolled {
-  background-color: rgba(0, 191, 255, .7);
+  background-color: rgba(0, 255, 255, .7);
 }
 
 .navbar-toggle i {
