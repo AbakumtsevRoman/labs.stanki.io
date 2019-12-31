@@ -69,7 +69,7 @@ body {
 }
 /*цвет меню*/
 .navbar-scrolled {
-  background-color: rgba(0, 255, 255, .7);
+  background-color: rgba(0, 255, 255, .9);
 }
 
 .navbar-toggle i {
